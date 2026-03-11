@@ -1,0 +1,17 @@
+.menu{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    width: 60%;
+    margin: auto;
+}
+
+.menu button{
+    width: 100%;
+    padding: 40px;
+    font-size: 22px;
+    border-radius: 15px;
+
+background-color : #F52754;
+color : white;
+}
